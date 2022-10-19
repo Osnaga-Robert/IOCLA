@@ -1,4 +1,4 @@
-La exercitiul 1 vom face un for prin care vom lua fiecare element din sir intr-un registru si vom copia in alt registru sirul modificat.Dupa ce vom lua fiecare litera, vom aduna 'cheia' si vom compara cu Z, in cazul in care depaseste
+**La exercitiul 1** vom face un for prin care vom lua fiecare element din sir intr-un registru si vom copia in alt registru sirul modificat.Dupa ce vom lua fiecare litera, vom aduna 'cheia' si vom compara cu Z, in cazul in care depaseste
 ultima litera din alfabetul englez, atunci voms cadea 26, numarul de litere din alfabetul engelz,dupa care vom adauga in sir si vom incrementa pentru a nu suprascrie
 
 La exercitiul 2, punctul a vom lua mai intai in doua registre coordonatele celor doua puncte si le vom compara pentru a afla daca sunt egale, caz in care ne vom muta in coorodnatele lui y si pe care le vom compara
