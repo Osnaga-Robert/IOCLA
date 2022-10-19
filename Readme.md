@@ -1,4 +1,4 @@
-#Prima parte  
+# Prima parte  
 Vom face un for prin care vom lua fiecare element din sir intr-un registru si vom copia in alt registru sirul modificat.Dupa ce vom lua fiecare litera, vom aduna 'cheia' si vom compara cu Z, in cazul in care depaseste
 ultima litera din alfabetul englez, atunci voms cadea 26, numarul de litere din alfabetul engelz,dupa care vom adauga in sir si vom incrementa pentru a nu suprascrie
 
